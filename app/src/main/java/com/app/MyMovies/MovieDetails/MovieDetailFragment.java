@@ -504,5 +504,4 @@ Kemudian kita harus menambahkan Notification dengan menggunakan NotificationMana
             }
     }
 
-
 }

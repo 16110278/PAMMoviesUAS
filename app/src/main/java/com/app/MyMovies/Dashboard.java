@@ -120,6 +120,7 @@ public class Dashboard extends AppCompatActivity implements MovieAdapter.OnItemC
         mSortBy = FetchMovies.POPULAR;
         refreshList(mSortBy);
 
+        //exit tap 2x
         if (doubleTapParam) {
             super.onBackPressed();
             return;

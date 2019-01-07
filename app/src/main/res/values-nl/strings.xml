@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="description">Movie</string>
+    <string name="title_network_alert">Netwerkfout</string>
+    <string name="message_network_alert">Zorg ervoor dat de verbinding met internet is verbonden</string>
+    <string name="release_date_error">Ontbrekende releasedatum</string>
+
+    <!--DashBoard Menu Strings-->
+    <string name="top_rated">Hoogste klassering</string>
+    <string name="favorites">Favoriet</string>
+    <string name="popular">Populair</string>
+    <string name="sort_by">Sorteer op</string>
+    <string name="now_playing">Nu aan het spelen</string>
+
+    <!--Movie Details Section-->
+    <string name="share_trailer">Deel Trailer</string>
+    <string name="add_to_favorites">Voeg toe aan favorieten</string>
+    <string name="remove_from_favorites">Verwijderen uit favorieten</string>
+    <string name="watch_trailer">Bekijk de trailer</string>
+
+    <!--Rating-->
+    <string name="movie_user_rating">TMDb: %1$s/10</string>
+</resources>
