@@ -295,7 +295,7 @@ public class MovieDetailFragment extends Fragment implements
         }
     }
 
-
+    //Favorite to SQLite
     public void mark_as_favorite() {
         Log.d(LOG_TAG, "Calling check for favorite method");
 
