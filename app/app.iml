@@ -166,5 +166,6 @@
     <orderEntry type="library" name="Gradle: android.arch.lifecycle:livedata-core-1.1.1" level="project" />
     <orderEntry type="library" name="Gradle: android.arch.lifecycle:runtime-1.1.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: net.sf.kxml:kxml2:2.3.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: C__Users_de_Fretes_AppData_Local_Android_Sdk_platforms_android_27_android_jar-android-27" level="project" />
   </component>
 </module>
